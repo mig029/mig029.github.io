@@ -1,0 +1,16 @@
+{
+  "name": "mig029.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mig029.github.io/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
