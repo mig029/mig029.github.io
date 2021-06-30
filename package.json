@@ -1,7 +1,6 @@
 {
   "name": "mig029.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d deploy"
@@ -9,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://mig029.github.io/",
+  "homepage": "https://mig029.github.io/webpage",
   "dependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mig029/mig029.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mig029/mig029.github.io/issues"
+  },
+  "description": ""
 }
